@@ -37,7 +37,7 @@ namespace HB_Nieuwsbrief
         private const string TEXT_BUTTON_CONFIG = "Configuratie";
         private const string COMMANDBAR_TITLE = "HB Nieuwsbrief Toolbar";
         private const string MSGBOX_TITLE = "HB Nieuwsbrief - Fout";
-        private const string MAIL_SUBJECT = "Nieuwsbrief Economisch Huis Oostende";
+        private const string MAIL_SUBJECT = "";
         private const string ERROR_IMAGES_NOT_FOUND = "Eén van de afbeeldingen (logo, achtergrond) voor de nieuwsbrief is niet gevonden. Controleer uw nieuwsbrief instellingen.";
         #endregion
         #region Start-up and Shut-down
