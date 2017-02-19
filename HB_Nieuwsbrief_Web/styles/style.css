@@ -1,0 +1,28 @@
+﻿.error
+{
+	font-weight: bold;
+}
+
+body
+{
+	font-family: Tahoma, Verdana;
+	font-size: 11px;
+	color: black;
+	background: white;
+}
+
+h2
+{
+	font-size: 14px;
+	display: block;
+	background-color: #3333FF;
+	color: white;
+	height: 15px;
+	text-align: right;
+	font-weight: bold;
+}
+
+#footer{
+	color: #CCCCFF;
+	text-align: right;
+}
