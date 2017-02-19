@@ -4,4 +4,4 @@ Basic newsletter mailer comprising of:
 - a tiny PHP website that was meant as an iframe on a client's website for subscribing and unsubscribing purposes. It employs CSS, Smarty templates and XHTML.
 
 #Disclaimer
-This code has not been modified 2009 and as such does not represent my current style or programming skills.
+The code has not really been updated since 2009 and as such does not represent my current programming style and/or skills.
