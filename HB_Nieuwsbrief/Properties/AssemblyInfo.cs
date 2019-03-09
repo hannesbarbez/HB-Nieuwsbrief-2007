@@ -6,12 +6,12 @@ using System.Security;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HB_Nieuwsbrief")]
+[assembly: AssemblyTitle("Basic Newsletters for Outlook")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hannes Barbez")]
-[assembly: AssemblyProduct("HB_Nieuwsbrief")]
-[assembly: AssemblyCopyright("©2009 Hannes Barbez.")]
+[assembly: AssemblyCompany("Barbez.eu")]
+[assembly: AssemblyProduct("Basic Newsletters for Outlook")]
+[assembly: AssemblyCopyright("©2019 Barbez.eu")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -33,7 +33,5 @@ using System.Security;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
-
-[assembly: SecurityTransparent()]
+[assembly: AssemblyVersion("2.0.0.0")]
+[assembly: AssemblyFileVersion("2.0.0.0")]
